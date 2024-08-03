@@ -1,0 +1,838 @@
+,name,company,year,Price,fuel_type,distance
+0,Hyundai Santro Xing XO eRLX Euro III,Hyundai,0.5,"80,000",Petrol,0.1125
+1,Mahindra Jeep CL550 MDI,Mahindra,0.4583333333333333,"4,25,000",Diesel,0.0001
+2,Maruti Suzuki Alto 800 Vxi,Maruti,0.9583333333333334,Ask For Price,Petrol,0.055
+3,Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,0.7916666666666666,"3,25,000",Petrol,0.07
+4,Ford EcoSport Titanium 1.5L TDCi,Ford,0.7916666666666666,"5,75,000",Diesel,0.09
+5,Ford EcoSport Titanium 1.5L TDCi,Ford,0.8333333333333334,Ask For Price,Diesel,0.1475
+6,Ford Figo,Ford,0.7083333333333334,"1,75,000",Diesel,0.1025
+7,Hyundai Eon,Hyundai,0.75,"1,90,000",Petrol,0.0625
+8,Ford EcoSport Ambiente 1.5L TDCi,Ford,0.875,"8,30,000",Diesel,0.061325
+9,Maruti Suzuki Alto K10 VXi AMT,Maruti,0.8333333333333334,"2,50,000",Petrol,0.15
+10,Skoda Fabia Classic 1.2 MPI,Skoda,0.625,"1,82,000",Petrol,0.15
+11,Maruti Suzuki Stingray VXi,Maruti,0.8333333333333334,"3,15,000",Petrol,0.075
+12,Hyundai Elite i20 Magna 1.2,Hyundai,0.7916666666666666,"4,15,000",Petrol,0.08
+13,Mahindra Scorpio SLE BS IV,Mahindra,0.8333333333333334,"3,20,000",Diesel,0.12165
+14,Hyundai Santro Xing XO eRLX Euro III,Hyundai,0.5,"80,000",Petrol,0.1125
+15,Mahindra Jeep CL550 MDI,Mahindra,0.4583333333333333,"4,25,000",Diesel,0.0001
+16,Audi A8,Audi,0.9166666666666666,"10,00,000",Petrol,0.01
+17,Audi Q7,Audi,0.7916666666666666,"5,00,000",Diesel,0.042335
+18,Mahindra Scorpio S10,Mahindra,0.875,"3,50,000",Diesel,0.1075
+19,Maruti Suzuki Alto 800,Maruti,0.7916666666666666,"1,60,000",Petrol,0.088875
+20,Mahindra Scorpio S10,Mahindra,0.875,"3,50,000",Diesel,0.1075
+21,Mahindra Scorpio S10,Mahindra,0.875,"3,10,000",Diesel,0.098805
+22,Maruti Suzuki Alto 800 Vxi,Maruti,0.8333333333333334,"75,000",Petrol,0.0975
+23,Hyundai i20 Sportz 1.2,Hyundai,0.7083333333333334,"1,00,000",Petrol,0.1375
+24,Hyundai i20 Sportz 1.2,Hyundai,0.7083333333333334,"1,00,000",Petrol,0.1375
+25,Hyundai i20 Sportz 1.2,Hyundai,0.7083333333333334,"1,00,000",Petrol,0.1375
+26,Maruti Suzuki Alto 800 Lx,Maruti,0.9166666666666666,"1,90,000",Petrol,0.18
+27,Maruti Suzuki Vitara Brezza ZDi,Maruti,0.875,"2,90,000",Diesel,0.0399375
+28,Maruti Suzuki Alto LX,Maruti,0.5416666666666666,"95,000",Petrol,0.175
+29,Mahindra Bolero DI,Mahindra,0.9166666666666666,"1,80,000",Diesel,0.05863
+30,Maruti Suzuki Swift Dzire ZDi,Maruti,0.7916666666666666,"3,85,000",Diesel,0.088805
+31,Mahindra Scorpio S10 4WD,Mahindra,0.8333333333333334,"2,50,000",Diesel,0.12127
+32,Maruti Suzuki Swift Vdi BSIII,Maruti,0.9166666666666666,"1,80,000",Petrol,0.0387175
+33,Maruti Suzuki Wagon R VXi BS III,Maruti,0.75,"1,05,000",Petrol,0.0975
+34,Maruti Suzuki Wagon R VXi Minor,Maruti,0.75,"1,05,000",Petrol,0.0975
+35,Toyota Innova 2.0 G 8 STR BS IV,Toyota,0.7083333333333334,"6,50,000",Diesel,0.205
+36,Renault Lodgy 85 PS RXL,Renault,0.9583333333333334,"6,89,999",Diesel,0.05
+37,Skoda Yeti Ambition 2.0 TDI CR 4x2,Skoda,0.7083333333333334,"4,48,000",Diesel,0.17
+38,Maruti Suzuki Baleno Delta 1.2,Maruti,0.9166666666666666,"5,49,000",Diesel,0.08
+39,Renault Duster 110 PS RxZ Diesel Plus,Renault,0.7083333333333334,"5,01,000",Diesel,0.095
+40,Renault Duster 85 PS RxE Diesel,Renault,0.75,"4,89,999",Diesel,0.0675
+41,Honda City 1.5 S MT,Honda,0.6666666666666666,"2,80,000",Petrol,0.0825
+42,Maruti Suzuki Alto K10 VXi AMT,Maruti,0.8333333333333334,"2,50,000",Petrol,0.15
+43,Maruti Suzuki Dzire,Maruti,0.75,"3,49,999",Diesel,0.115
+44,Honda Amaze,Honda,0.75,"2,84,999",Diesel,0.115
+45,Honda Amaze 1.5 SX i DTEC,Honda,0.8333333333333334,"3,45,000",Diesel,0.09
+46,Honda City,Honda,0.8333333333333334,"4,99,999",Petrol,0.1375
+47,Datsun Redi GO S,Datsun,0.9166666666666666,"2,35,000",Petrol,0.04
+48,Maruti Suzuki SX4 ZXI MT,Maruti,0.625,"2,49,999",Petrol,0.09
+49,Mitsubishi Pajero Sport Limited Edition,Mitsubishi,0.8333333333333334,"14,75,000",Diesel,0.1175
+50,Mahindra Bolero DI,Mahindra,0.9166666666666666,"1,80,000",Diesel,0.05863
+51,Maruti Suzuki Swift Dzire ZDi,Maruti,0.7916666666666666,"3,85,000",Diesel,0.088805
+52,Mahindra Scorpio S10 4WD,Mahindra,0.8333333333333334,"2,50,000",Diesel,0.12127
+53,Maruti Suzuki Swift Vdi BSIII,Maruti,0.9166666666666666,"1,80,000",Petrol,0.0387175
+54,Maruti Suzuki Wagon R VXi BS III,Maruti,0.75,"1,05,000",Petrol,0.0975
+55,Maruti Suzuki Wagon R VXi Minor,Maruti,0.75,"1,05,000",Petrol,0.0975
+56,Mahindra Scorpio S10,Mahindra,0.8333333333333334,"3,95,000",Diesel,0.0875
+57,Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,0.9166666666666666,"2,20,000",Petrol,0.077185
+58,Honda City ZX CVT,Honda,0.9166666666666666,"1,70,000",Diesel,0.0375
+59,Maruti Suzuki Wagon R LX BS IV,Maruti,0.75,"85,000",Petrol,0.0742125
+60,Ford Figo,Ford,0.7083333333333334,"1,75,000",Diesel,0.1025
+61,Hyundai Eon,Hyundai,0.75,"1,90,000",Petrol,0.0625
+62,Tata Indigo eCS LS CR4 BS IV,Tata,0.9166666666666666,"2,00,000",Diesel,0.325
+63,Ford EcoSport Ambiente 1.5L TDCi,Ford,0.875,"8,30,000",Diesel,0.061325
+64,Tata Indigo eCS LS CR4 BS IV,Tata,0.9166666666666666,"2,00,000",Diesel,0.325
+65,Mahindra Scorpio SLE BS IV,Mahindra,0.7083333333333334,"5,70,000",Diesel,0.0475
+66,Volkswagen Polo Highline Exquisite P,Volkswagen,0.7916666666666666,"3,15,000",Petrol,0.15
+67,Skoda Fabia Classic 1.2 MPI,Skoda,0.625,"1,82,000",Petrol,0.15
+68,Maruti Suzuki Stingray VXi,Maruti,0.8333333333333334,"3,15,000",Petrol,0.075
+70,Chevrolet Spark LS 1.0,Chevrolet,0.625,"1,10,000",Petrol,0.1025
+71,Renault Duster 110PS Diesel RxZ,Renault,0.7083333333333334,"5,01,000",Diesel,0.0875
+72,Honda City,Honda,0.8333333333333334,"4,48,999",Petrol,0.135
+73,Mini Cooper S 1.6,Mini,0.75,"18,91,111",Petrol,0.0325
+74,Datsun Redi GO S,Datsun,0.9166666666666666,"2,35,000",Petrol,0.04
+75,Skoda Fabia 1.2L Diesel Ambiente,Skoda,0.6666666666666666,"1,59,500",Diesel,0.0955
+76,Honda Amaze,Honda,0.8333333333333334,"3,44,999",Petrol,0.055
+77,Honda Amaze,Honda,0.8333333333333334,"3,44,999",Petrol,0.055
+78,Renault Duster,Renault,0.7916666666666666,"4,49,999",Diesel,0.125
+79,Mini Cooper S 1.6,Mini,0.75,"18,91,111",Petrol,0.03375
+80,Mahindra Scorpio S4,Mahindra,0.8333333333333334,"8,65,000",Diesel,0.075
+81,Mahindra Scorpio VLX 2WD BS IV,Mahindra,0.7916666666666666,"6,99,000",Diesel,0.125
+82,Mahindra Quanto C8,Mahindra,0.75,"3,75,000",Diesel,0.05
+83,Ford EcoSport,Ford,0.9166666666666666,"4,89,999",Petrol,0.0975
+84,Honda Brio,Honda,0.7083333333333334,"2,24,999",Petrol,0.075
+86,Volkswagen Vento Highline Plus 1.5 Diesel AT,Volkswagen,1.0,"12,00,000",Diesel,0.009
+87,Hyundai i20 Magna,Hyundai,0.5833333333333334,"1,95,000",Petrol,0.08
+88,Toyota Corolla Altis Diesel D4DG,Toyota,0.625,"3,51,000",Diesel,0.095
+89,Hyundai Verna Transform SX VTVT,Hyundai,0.5416666666666666,"1,60,000",Petrol,0.1125
+90,Toyota Corolla Altis Petrol Ltd,Toyota,0.5833333333333334,"2,40,000",Petrol,0.0875
+91,Honda City 1.5 EXi New,Honda,0.4166666666666667,"90,000",Petrol,0.125
+92,Hyundai Elite i20 Magna 1.2,Hyundai,0.7916666666666666,"4,15,000",Petrol,0.08
+93,Skoda Fabia 1.2L Diesel Elegance,Skoda,0.6666666666666666,"1,55,000",Diesel,0.1146575
+94,BMW 3 Series 320i,BMW,0.6666666666666666,"6,00,000",Petrol,0.15125
+95,Maruti Suzuki A Star Lxi,Maruti,0.6666666666666666,"1,89,500",Petrol,0.03125
+96,Toyota Etios GD,Toyota,0.75,"3,50,000",Diesel,0.15
+97,Ford Figo Diesel EXI Option,Ford,0.7083333333333334,"2,10,000",Diesel,0.0875
+98,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,0.7916666666666666,"3,90,000",Petrol,0.0875
+99,Chevrolet Beat LT Diesel,Chevrolet,0.7083333333333334,"1,35,000",Diesel,0.1125
+100,BMW 7 Series 740Li Sedan,BMW,0.5833333333333334,"16,00,000",Petrol,0.0875
+101,Mahindra XUV500 W8 AWD 2013,Mahindra,0.75,"7,01,000",Diesel,0.095
+102,Hyundai i10 Magna 1.2,Hyundai,0.7916666666666666,"2,65,000",Petrol,0.045
+103,Hyundai Verna Fluidic New,Hyundai,0.8333333333333334,"5,25,000",Diesel,0.0875
+104,Maruti Suzuki Swift VXi 1.2 BS IV,Maruti,0.75,"3,72,000",Petrol,0.0333725
+105,Maruti Suzuki Ertiga ZXI Plus,Maruti,0.875,"6,35,000",Petrol,0.0725
+106,Ford EcoSport Titanium 1.5L TDCi,Ford,0.7916666666666666,"5,50,000",Diesel,0.11
+107,Maruti Suzuki Ertiga Vxi,Maruti,0.875,"5,75,000",Petrol,0.0725
+108,Maruti Suzuki Ertiga VDi,Maruti,0.75,"4,85,000",Diesel,0.105
+109,Maruti Suzuki Alto LXi BS III,Maruti,0.7083333333333334,"1,55,000",Petrol,0.035
+110,Hyundai Grand i10 Asta 1.1 CRDi,Hyundai,0.7916666666666666,"3,45,000",Diesel,0.1225
+111,Honda Amaze 1.2 S i VTEC,Honda,0.7916666666666666,"3,25,000",Petrol,0.105
+112,Hyundai i20 Asta 1.4 CRDI 6 Speed,Hyundai,0.7083333333333334,"3,29,500",Diesel,0.0905
+113,Ford Figo Diesel EXI,Ford,0.7916666666666666,"1,95,000",Diesel,0.125
+114,Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,0.8333333333333334,"2,51,111",Petrol,0.1375
+115,Maruti Suzuki Ertiga ZXi,Maruti,0.7916666666666666,"5,69,999",Petrol,0.1125
+116,Maruti Suzuki Esteem LXi BS III,Maruti,0.5,"69,999",Petrol,0.1275
+117,Maruti Suzuki Ritz VXI,Maruti,0.7916666666666666,"2,99,999",Petrol,0.0475
+118,Maruti Suzuki Dzire,Maruti,0.5833333333333334,"2,20,000",Petrol,0.115
+119,Maruti Suzuki Ritz LDi,Maruti,0.75,"3,99,999",Diesel,0.0825
+120,Maruti Suzuki Swift VXi 1.2 BS IV,Maruti,0.75,"3,72,000",Petrol,0.0333725
+121,Maruti Suzuki Dzire VDI,Maruti,0.8333333333333334,"4,50,000",Diesel,0.26
+122,Toyota Etios Liva G,Toyota,0.7916666666666666,"2,70,000",Petrol,0.1375
+123,Hyundai i20 Sportz 1.4 CRDI,Hyundai,0.6666666666666666,"3,50,000",Diesel,0.0833325
+124,Chevrolet Spark,Chevrolet,0.7083333333333334,"1,58,400",Petrol,0.084
+125,Maruti Suzuki Alto K10 VXi AMT,Maruti,0.9166666666666666,"3,50,000",Petrol,0.014
+126,Nissan Micra XV,Nissan,0.6666666666666666,"1,79,000",Petrol,0.1025
+127,Maruti Suzuki Swift,Maruti,0.5,"1,25,000",Petrol,0.175
+128,Maruti Suzuki Alto 800,Maruti,0.9583333333333334,"2,00,000",Petrol,0.01875
+129,Honda Amaze 1.5 S i DTEC,Honda,0.75,"2,99,000",Diesel,0.1125
+130,Maruti Suzuki Alto 800 Vxi,Maruti,0.8333333333333334,"2,20,000",Petrol,0.095
+131,Chevrolet Beat,Chevrolet,0.8333333333333334,"1,50,000",Petrol,0.075
+133,Honda City 1.5 V MT,Honda,0.625,"2,85,000",Petrol,0.0875
+134,Ford EcoSport Trend 1.5L TDCi,Ford,0.875,"8,30,000",Diesel,0.060825
+135,Hyundai i20 Asta 1.2,Hyundai,0.5833333333333334,"2,10,000",Petrol,0.1637
+136,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,0.75,"3,40,000",Petrol,0.1025
+137,Tata Indica V2 eLS,Tata,0.4583333333333333,"90,000",Petrol,0.05
+138,Maruti Suzuki Alto 800 Lxi,Maruti,0.9583333333333334,Ask For Price,Petrol,0.07007
+139,Hindustan Motors Ambassador,Hindustan,0.20833333333333334,"70,000",Diesel,0.5
+140,Toyota Corolla Altis 1.8 GL,Toyota,0.625,"2,89,999",Petrol,0.175
+141,Toyota Corolla Altis 1.8 J,Toyota,0.7083333333333334,"3,49,999",Petrol,0.1475
+142,Toyota Innova 2.5 GX BS IV 7 STR,Toyota,0.7083333333333334,"8,49,999",Diesel,0.2475
+143,Volkswagen Jetta Highline TDI AT,Volkswagen,0.7916666666666666,"7,49,999",Diesel,0.115
+144,Volkswagen Polo Comfortline 1.2L P,Volkswagen,0.8333333333333334,"3,99,999",Petrol,0.007
+145,Volkswagen Polo,Volkswagen,0.7916666666666666,"2,74,999",Petrol,0.08
+146,Mahindra Scorpio,Mahindra,0.8333333333333334,"9,84,999",Diesel,0.055
+147,Renault Duster,Renault,0.7916666666666666,"4,49,999",Diesel,0.125
+148,Honda Amaze,Honda,0.8333333333333334,"3,44,999",Petrol,0.055
+149,Nissan Sunny,Nissan,0.7083333333333334,"2,24,999",Petrol,0.1125
+150,Hyundai Elite i20,Hyundai,0.9583333333333334,"5,99,999",Petrol,0.0525
+151,Renault Kwid,Renault,0.875,"2,44,999",Petrol,0.0275
+152,Renault Duster,Renault,0.75,"3,99,999",Diesel,0.1025
+153,Ford EcoSport,Ford,0.9166666666666666,"4,89,999",Petrol,0.0975
+154,Renault Duster,Renault,0.7916666666666666,"4,74,999",Diesel,0.125
+155,Mahindra Scorpio VLX Airbag,Mahindra,0.6666666666666666,"4,99,999",Diesel,0.165
+156,Maruti Suzuki Alto 800 Lxi,Maruti,0.9583333333333334,"3,10,000",Petrol,0.0075
+157,Chevrolet Spark LT 1.0,Chevrolet,0.625,"85,000",Petrol,0.1125
+158,Datsun Redi GO T O,Datsun,0.875,"2,45,000",Petrol,0.0175
+159,Maruti Suzuki Swift RS VDI,Maruti,0.625,"1,89,500",Diesel,0.09625
+160,Fiat Punto Emotion 1.2,Fiat,0.7083333333333334,"1,69,500",Diesel,0.093
+161,Maruti Suzuki Swift RS VDI,Maruti,0.625,"1,59,500",Diesel,0.108
+162,Toyota Etios GD,Toyota,0.75,"2,75,000",Petrol,0.062
+163,Hyundai i20 Sportz 1.4 CRDI,Hyundai,0.7916666666666666,"3,70,000",Diesel,0.15
+164,Hyundai i10 Sportz 1.2,Hyundai,0.625,"1,68,000",Petrol,0.11468
+165,Chevrolet Beat LT Opt Diesel,Chevrolet,0.6666666666666666,"1,50,000",Diesel,0.1
+166,Chevrolet Beat LS Diesel,Chevrolet,0.6666666666666666,"1,45,000",Diesel,0.1125
+167,Chevrolet Beat LT Diesel,Chevrolet,0.7083333333333334,"98,500",Diesel,0.095
+168,Mahindra Scorpio VLX 2WD BS IV,Mahindra,0.7916666666666666,"6,99,000",Diesel,0.125
+169,Tata Indigo CS,Tata,0.6666666666666666,"85,000",Diesel,0.0285
+170,Toyota Corolla Altis 1.8 J,Toyota,0.8333333333333334,"5,75,000",Petrol,0.105
+171,Honda City 1.5 V MT,Honda,0.7916666666666666,"5,49,000",Petrol,0.0975
+172,Maruti Suzuki Swift VDi,Maruti,0.6666666666666666,"2,09,000",Diesel,0.1175
+173,Hyundai Eon Era Plus,Hyundai,0.75,"1,85,000",Petrol,0.0675
+174,Mahindra Scorpio S10,Mahindra,0.8333333333333334,"9,00,000",Diesel,0.243
+175,Mahindra XUV500,Mahindra,0.7916666666666666,"6,99,999",Diesel,0.13
+176,Honda Brio,Honda,0.7083333333333334,"2,24,999",Petrol,0.075
+177,Ford Fiesta,Ford,0.6666666666666666,"2,74,999",Diesel,0.1375
+178,Honda Amaze,Honda,0.75,"2,84,999",Diesel,0.115
+179,Honda City,Honda,0.8333333333333334,"5,99,999",Diesel,0.075
+180,Maruti Suzuki Wagon R,Maruti,0.7083333333333334,"1,99,999",Petrol,0.11
+181,Honda City,Honda,0.7916666666666666,"5,44,999",Diesel,0.1125
+182,Hyundai i20,Hyundai,0.5833333333333334,"1,99,000",Petrol,0.0775
+183,Tata Indigo eCS LX TDI BS III,Tata,0.875,"3,20,000",Diesel,0.438575
+184,Hyundai Fluidic Verna 1.6 CRDi SX,Hyundai,0.8333333333333334,"5,40,000",Diesel,0.095
+186,Mahindra Quanto C8,Mahindra,0.75,"3,40,000",Diesel,0.0925
+187,Fiat Petra ELX 1.2 PS,Fiat,0.5416666666666666,"75,000",Petrol,0.1625
+188,Skoda Fabia 1.2L Diesel Ambiente,Skoda,0.6666666666666666,"1,59,500",Diesel,0.0955
+189,Mini Cooper S 1.6,Mini,0.75,"18,91,111",Petrol,0.0325
+190,Hyundai Santro Xing XS,Hyundai,0.4166666666666667,"49,000",Petrol,0.01875
+191,Maruti Suzuki Ciaz VXi Plus,Maruti,0.875,"7,00,000",Petrol,0.008375
+192,Maruti Suzuki Zen VX,Maruti,0.20833333333333334,"55,000",Petrol,0.15
+193,Honda City,Honda,0.8333333333333334,"4,48,999",Petrol,0.135
+194,Hyundai Creta 1.6 SX Plus Petrol,Hyundai,0.9166666666666666,"8,95,000",Petrol,0.08
+196,Mahindra Scorpio SLX,Mahindra,0.5,"3,55,000",Diesel,0.1875
+197,Mahindra Scorpio SLE BS IV,Mahindra,0.7083333333333334,"5,65,000",Diesel,0.155
+198,Toyota Innova 2.5 G BS III 8 STR,Toyota,0.4583333333333333,"3,65,000",Diesel,0.1825
+199,Maruti Suzuki Alto K10 VXi AMT,Maruti,0.6666666666666666,"1,45,000",Petrol,0.1025
+200,Maruti Suzuki Wagon R LXI BS IV,Maruti,0.6666666666666666,"2,10,000",Petrol,0.0875
+201,Tata Nano Cx BSIV,Tata,0.75,"40,000",Petrol,0.0055
+202,Maruti Suzuki Alto Std BS IV,Maruti,0.75,"1,25,000",Petrol,0.0975
+203,Maruti Suzuki Wagon R LXi BS III,Maruti,0.5833333333333334,"1,35,000",Petrol,0.1125
+204,Maruti Suzuki Swift VXI BSIII,Maruti,0.4583333333333333,"1,35,000",Petrol,0.1125
+205,Tata Sumo Victa EX 10 by 7 Str BSIII,Tata,0.7083333333333334,"2,85,000",Diesel,0.1625
+207,Maruti Suzuki Wagon R LXi BS III,Maruti,0.625,"1,45,000",Petrol,0.137175
+208,Maruti Suzuki Alto LXi BS III,Maruti,0.625,"1,35,000",Petrol,0.08645
+209,Volkswagen Passat Diesel Comfortline AT,Volkswagen,0.5833333333333334,"4,50,000",Diesel,0.2425
+210,Renault Scala RxL Diesel Travelogue,Renault,0.8333333333333334,"3,75,000",Diesel,0.0625
+211,Mahindra Quanto C8,Mahindra,0.75,"3,75,000",Diesel,0.05
+212,Hyundai Grand i10 Sportz O 1.2 Kappa VTVT,Hyundai,0.7916666666666666,"3,65,000",Petrol,0.05
+213,Hyundai i20 Active 1.2 SX,Hyundai,0.8333333333333334,"5,00,000",Petrol,0.045
+214,Mahindra Xylo E4,Mahindra,0.7083333333333334,"4,00,000",Diesel,0.0875
+215,Mahindra Jeep MM 550 XDB,Mahindra,1.0,"3,90,000",Diesel,0.00015
+216,Renault Duster 110PS Diesel RxZ,Renault,0.7083333333333334,"5,01,000",Diesel,0.0875
+217,Mahindra Bolero SLE BS IV,Mahindra,0.75,"3,30,000",Diesel,0.2005
+218,Force Motors Force One LX ABS 7 STR,Force,0.8333333333333334,"5,80,000",Diesel,0.008
+219,Maruti Suzuki SX4,Maruti,0.7083333333333334,"2,65,000",Diesel,0.115
+220,Mahindra Jeep CL550 MDI,Mahindra,1.0,"3,79,000",Diesel,0.0
+221,Maruti Suzuki Alto 800,Maruti,0.8333333333333334,"2,19,000",Petrol,0.0125
+222,Mahindra Jeep CL550 MDI,Mahindra,0.9583333333333334,"3,85,000",Diesel,0.00147
+223,Toyota Etios,Toyota,0.6666666666666666,"2,75,000",Diesel,0.09
+224,Volkswagen Polo,Volkswagen,0.8333333333333334,"3,30,000",Diesel,0.095
+225,Honda City ZX VTEC,Honda,0.5416666666666666,"1,10,000",Petrol,0.1125
+226,Maruti Suzuki Wagon R LX BS III,Maruti,0.4583333333333333,"80,000",Petrol,0.178
+227,Honda City VX O MT Diesel,Honda,0.875,"5,19,000",Diesel,0.13
+228,Mahindra Thar CRDe 4x4 AC,Mahindra,0.875,"7,30,000",Diesel,0.0725
+229,Mitsubishi Pajero Sport Limited Edition,Mitsubishi,0.8333333333333334,"14,75,000",Diesel,0.1175
+230,Audi A4 1.8 TFSI Multitronic Premium Plus,Audi,0.5833333333333334,"6,99,000",Petrol,0.1175
+231,Mercedes Benz GLA Class 200 CDI Sport,Mercedes,0.8333333333333334,"20,00,000",Diesel,0.05
+232,Land Rover Freelander 2 SE,Land,0.8333333333333334,"21,00,000",Diesel,0.075
+233,Renault Kwid RXT,Renault,0.9166666666666666,"3,40,000",Petrol,0.0125
+234,Tata Aria Pleasure 4X2,Tata,0.7916666666666666,"3,90,000",Diesel,0.0875
+235,Mercedes Benz B Class B180 Sports,Mercedes,0.7916666666666666,"14,00,000",Petrol,0.0775
+236,Datsun GO T O,Datsun,0.875,"2,45,000",Petrol,0.0175
+237,Tata Indigo eCS LX TDI BS III,Tata,0.875,"3,20,000",Diesel,0.438575
+238,Tata Indigo eCS LX TDI BS III,Tata,0.875,"3,20,000",Diesel,0.4385
+239,Honda Jazz VX MT,Honda,0.875,"4,50,000",Petrol,0.1025
+240,Honda Amaze 1.2 S i VTEC,Honda,0.7916666666666666,"3,11,000",Petrol,0.0825
+241,Honda Amaze,Honda,0.75,"2,84,999",Diesel,0.115
+242,Honda City,Honda,0.7083333333333334,"3,99,999",Petrol,0.1125
+243,Honda City,Honda,0.8333333333333334,"5,99,999",Diesel,0.0975
+244,Honda Amaze,Honda,0.8333333333333334,"3,44,999",Petrol,0.055
+245,Audi A4 1.8 TFSI Multitronic Premium Plus,Audi,0.5833333333333334,"6,99,000",Petrol,0.1175
+246,Force Motors Force One LX ABS 7 STR,Force,0.8333333333333334,"5,80,000",Diesel,0.008
+247,Mahindra Scorpio S4,Mahindra,0.8333333333333334,"8,55,000",Diesel,0.075
+248,Hyundai i20 Active 1.4L SX O,Hyundai,0.8333333333333334,"5,35,000",Diesel,0.0925
+249,Mini Cooper S,Mini,0.75,"18,91,111",Petrol,0.0325
+250,Maruti Suzuki Ciaz ZXI Plus,Maruti,0.9166666666666666,"6,99,000",Petrol,0.035
+251,Chevrolet Tavera Neo,Chevrolet,0.75,"3,75,000",Diesel,0.1375
+252,Honda Amaze,Honda,0.75,"2,84,999",Diesel,0.115
+253,Hyundai Eon Sportz,Hyundai,0.7083333333333334,"1,78,000",Petrol,0.075
+254,Tata Sumo Gold Select Variant,Tata,0.75,"3,00,000",Diesel,0.125
+255,Maruti Suzuki Wagon R 1.0,Maruti,0.3333333333333333,"90,000",Petrol,0.1125
+256,Maruti Suzuki Esteem VXi BS III,Maruti,0.4583333333333333,"95,000",Petrol,0.1125
+257,Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,0.8333333333333334,"2,55,000",Petrol,0.02325
+258,Chevrolet Enjoy 1.4 LS 8 STR,Chevrolet,0.75,"2,45,000",Diesel,0.1375
+259,Hyundai i20 Asta 1.4 CRDI 6 Speed,Hyundai,0.7083333333333334,"3,29,500",Diesel,0.0905
+260,Ford Figo Diesel EXI,Ford,0.7916666666666666,"1,95,000",Diesel,0.125
+261,Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,0.8333333333333334,"2,51,111",Petrol,0.1375
+262,Maruti Suzuki Ertiga ZXi,Maruti,0.7916666666666666,"5,69,999",Petrol,0.1125
+263,Maruti Suzuki Esteem LXi BS III,Maruti,0.5,"69,999",Petrol,0.1275
+264,Maruti Suzuki Ritz VXI,Maruti,0.7916666666666666,"2,99,999",Petrol,0.0475
+265,Maruti Suzuki Dzire,Maruti,0.5833333333333334,"2,20,000",Petrol,0.115
+266,Maruti Suzuki Ritz LDi,Maruti,0.75,"3,99,999",Diesel,0.0825
+267,Maruti Suzuki SX4 ZXI MT,Maruti,0.625,"2,49,999",Petrol,0.09
+268,Maruti Suzuki Wagon R 1.0 VXi,Maruti,0.8333333333333334,"2,89,999",Petrol,0.055
+269,Mini Cooper S 1.6,Mini,0.75,"18,91,111",Petrol,0.03375
+270,Nissan Terrano XL D Plus,Nissan,0.8333333333333334,"4,99,999",Diesel,0.15
+271,Renault Duster 85 PS RxE Diesel,Renault,0.75,"4,89,999",Diesel,0.0675
+272,Renault Duster 85 PS RxE Diesel,Renault,0.7916666666666666,"4,89,999",Diesel,0.1475
+273,Renault Duster 85 PS RxL Diesel,Renault,0.8333333333333334,"5,49,999",Diesel,0.0475
+274,Maruti Suzuki Dzire ZXI,Maruti,0.75,"3,80,000",Petrol,0.075
+275,Renault Kwid RXT Opt,Renault,0.9583333333333334,"3,25,000",Petrol,0.0375
+276,Maruti Suzuki Maruti 800 Std,Maruti,0.3333333333333333,"57,000",Petrol,0.141895
+277,Renault Kwid 1.0 RXT AMT,Renault,0.9583333333333334,"3,49,999",Petrol,0.025
+278,Renault Lodgy 85 PS RXL,Renault,0.9583333333333334,"6,89,999",Diesel,0.05
+279,Renault Scala RxL Diesel,Renault,0.7916666666666666,"3,49,999",Diesel,0.1225
+280,Hyundai Grand i10 Asta 1.2 Kappa VTVT O,Hyundai,0.7916666666666666,"4,10,000",Petrol,0.1025
+281,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,0.6666666666666666,"2,25,000",Petrol,0.1125
+282,Chevrolet Beat LS Petrol,Chevrolet,0.625,"1,20,000",Petrol,0.1075
+283,Tata Indigo eCS LX TDI BS III,Tata,0.875,"3,20,000",Diesel,0.438575
+284,Hyundai Santro Xing XO eRLX Euro III,Hyundai,0.20833333333333334,"59,000",Petrol,0.141125
+285,Hyundai Fluidic Verna 1.6 CRDi SX,Hyundai,0.8333333333333334,"5,40,000",Diesel,0.095
+287,Chevrolet Beat LS Petrol,Chevrolet,0.625,"80,000",Petrol,0.14
+288,Mahindra Quanto C8,Mahindra,0.75,"3,40,000",Diesel,0.0925
+289,Fiat Petra ELX 1.2 PS,Fiat,0.5416666666666666,"75,000",Petrol,0.1625
+290,Chevrolet Beat LS Petrol,Chevrolet,0.8333333333333334,"2,20,000",Petrol,0.08175
+291,Skoda Fabia 1.2L Diesel Ambiente,Skoda,0.6666666666666666,"1,59,500",Diesel,0.0955
+292,Ford EcoSport Titanium 1.5L TDCi,Ford,0.875,"5,99,000",Diesel,0.075
+293,Hyundai Accent GLX,Hyundai,0.4583333333333333,"80,000",Petrol,0.14
+295,Maruti Suzuki Swift LDi,Maruti,0.625,Ask For Price,Diesel,0.13
+296,Mahindra TUV300 T4 Plus,Mahindra,0.875,"6,75,000",Diesel,0.0225
+297,Mini Cooper S 1.6,Mini,0.75,"18,91,111",Petrol,0.0325
+298,Mini Cooper S 1.6,Mini,0.75,"18,91,111",Petrol,0.0325
+299,Tata Indica V2 Xeta e GLE,Tata,0.5416666666666666,"1,50,000",Petrol,0.0275
+300,Mini Cooper S,Mini,0.75,"18,91,111",Petrol,0.0325
+301,Tata Indigo CS LS DiCOR,Tata,0.5833333333333334,"72,500",Diesel,0.115
+302,Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,1.0,"6,10,000",Petrol,0.0001825
+303,Mahindra Scorpio VLX Special Edition BS III,Mahindra,0.375,"2,30,000",Diesel,0.4
+304,Tata Indica eV2 LS,Tata,0.9166666666666666,Ask For Price,Diesel,0.21
+305,Honda Accord,Honda,0.5833333333333334,"1,75,000",Petrol,0.1463975
+306,Mahindra Scorpio S4,Mahindra,0.8333333333333334,"8,55,000",Diesel,0.075
+307,Chevrolet Tavera Neo,Chevrolet,0.75,"3,75,000",Diesel,0.1375
+308,Ford EcoSport Titanium 1.5 TDCi,Ford,0.7916666666666666,"5,20,000",Diesel,0.1425
+309,Maruti Suzuki Ertiga,Maruti,0.8333333333333334,"5,24,999",Diesel,0.125
+310,Honda Amaze,Honda,0.7916666666666666,"2,99,999",Petrol,0.0925
+311,Maruti Suzuki Dzire,Maruti,0.7083333333333334,"2,99,999",Petrol,0.1
+312,Honda City,Honda,0.6666666666666666,"2,84,999",Petrol,0.1375
+313,Mahindra Scorpio 2.6 CRDe,Mahindra,0.5,"2,20,000",Diesel,0.425
+314,Maruti Suzuki Dzire,Maruti,0.7916666666666666,"4,24,999",Diesel,0.1375
+315,Honda City,Honda,0.8333333333333334,"6,44,999",Petrol,0.0975
+316,Honda Mobilio,Honda,0.7916666666666666,"3,99,999",Petrol,0.11
+317,Toyota Corolla Altis,Toyota,0.5833333333333334,"1,99,999",Petrol,0.1625
+318,Honda City,Honda,0.7916666666666666,"5,84,999",Petrol,0.0975
+319,Skoda Laura,Skoda,0.7083333333333334,"3,49,999",Diesel,0.11
+320,Renault Duster,Renault,0.8333333333333334,"4,49,999",Diesel,0.1225
+321,Maruti Suzuki Ertiga,Maruti,0.9583333333333334,"7,99,999",Diesel,0.0225
+322,Maruti Suzuki Dzire,Maruti,0.8333333333333334,"4,44,999",Diesel,0.1125
+323,Mahindra XUV500,Mahindra,0.7916666666666666,"6,49,999",Diesel,0.1175
+324,Hyundai Verna Fluidic,Hyundai,0.7083333333333334,"4,44,999",Diesel,0.1
+325,Maruti Suzuki Vitara Brezza,Maruti,0.875,"6,89,999",Diesel,0.0725
+326,Maruti Suzuki Wagon R,Maruti,0.875,"3,44,999",Petrol,0.0375
+327,Mahindra Scorpio,Mahindra,0.8333333333333334,"9,44,999",Diesel,0.1125
+328,Honda Amaze,Honda,0.7916666666666666,"2,74,999",Petrol,0.0875
+329,Mahindra XUV500,Mahindra,0.75,"6,89,999",Diesel,0.2
+330,Mahindra Scorpio,Mahindra,0.75,"5,74,999",Diesel,0.17
+331,Skoda Laura,Skoda,0.75,"3,74,999",Diesel,0.125
+332,Volkswagen Polo,Volkswagen,0.625,"1,99,999",Diesel,0.15
+333,Hyundai Elite i20,Hyundai,0.875,"5,49,999",Petrol,0.0225
+334,Tata Manza Aura Quadrajet,Tata,0.7083333333333334,"1,30,000",Diesel,0.18
+335,Chevrolet Sail UVA Petrol LT ABS,Chevrolet,0.75,"2,10,000",Petrol,0.15
+336,Renault Duster 110 PS RxZ Diesel Plus,Renault,0.7083333333333334,"5,01,000",Diesel,0.095
+337,Hyundai Verna Fluidic 1.6 VTVT SX,Hyundai,0.75,"4,01,000",Diesel,0.1125
+338,Audi A4 2.0 TDI 177bhp Premium,Audi,0.7083333333333334,"13,50,000",Diesel,0.1
+339,Hyundai Elantra SX,Hyundai,0.75,"6,00,000",Petrol,0.05
+340,Mahindra Scorpio VLX 4WD Airbag,Mahindra,0.75,"6,10,000",Diesel,0.0875
+341,Mahindra KUV100 K8 D 6 STR,Mahindra,0.875,"4,00,000",Diesel,0.05
+342,Renault Scala RxL Diesel Travelogue,Renault,0.8333333333333334,"3,75,000",Diesel,0.0625
+343,Mahindra Quanto C8,Mahindra,0.75,"3,75,000",Diesel,0.05
+344,Hyundai Grand i10 Sportz O 1.2 Kappa VTVT,Hyundai,0.7916666666666666,"3,65,000",Petrol,0.05
+345,Hyundai i20 Active 1.2 SX,Hyundai,0.8333333333333334,"5,00,000",Petrol,0.045
+346,Mahindra Xylo E4,Mahindra,0.7083333333333334,"4,00,000",Diesel,0.0875
+347,Hyundai Grand i10,Hyundai,0.9166666666666666,"5,24,999",Petrol,0.0170525
+348,Hyundai i20,Hyundai,0.7916666666666666,"4,49,999",Petrol,0.0575
+349,Hyundai Eon,Hyundai,0.7916666666666666,"1,74,999",Petrol,0.035
+350,Hyundai i10,Hyundai,0.7083333333333334,"2,44,999",Petrol,0.095
+351,Hyundai i20 Active,Hyundai,0.8333333333333334,"5,74,999",Diesel,0.0875
+352,Datsun Redi GO,Datsun,0.9166666666666666,"2,44,999",Petrol,0.055
+353,Toyota Etios Liva,Toyota,0.6666666666666666,"2,39,999",Petrol,0.1025
+354,Hyundai Accent,Hyundai,0.625,"99,999",Petrol,0.1125
+355,Hyundai Verna,Hyundai,0.7916666666666666,"4,89,999",Diesel,0.11
+356,Maruti Suzuki Swift,Maruti,0.75,"3,24,999",Diesel,0.1125
+357,Toyota Fortuner,Toyota,0.6666666666666666,"10,74,999",Diesel,0.13
+358,Hyundai i10 Sportz,Hyundai,0.7083333333333334,"2,30,000",Petrol,0.085
+359,Mahindra Bolero Power Plus SLE,Mahindra,0.9583333333333334,"6,99,000",Diesel,0.0045
+361,Mahindra XUV500,Mahindra,0.8333333333333334,"10,00,000",Diesel,0.0375
+362,Honda City 1.5 V MT Exclusive,Honda,0.625,"2,40,000",Petrol,1.0
+363,Chevrolet Spark LT 1.0 Airbag,Chevrolet,0.5833333333333334,"1,10,000",Petrol,0.11
+364,Mahindra Jeep MM 550 XDB,Mahindra,1.0,"3,90,000",Diesel,0.00015
+365,Renault Duster 110PS Diesel RxZ,Renault,0.7083333333333334,"5,01,000",Diesel,0.0875
+366,Mahindra XUV500,Mahindra,0.875,"11,30,000",Diesel,0.18
+367,Tata Indigo eCS VX CR4 BS IV,Tata,0.7916666666666666,"2,50,000",Diesel,0.1
+369,Mahindra Bolero SLE BS IV,Mahindra,0.75,"3,30,000",Diesel,0.2005
+370,Force Motors Force One LX ABS 7 STR,Force,0.8333333333333334,"5,80,000",Diesel,0.008
+371,Skoda Rapid Elegance 1.6 TDI CR MT,Skoda,0.75,"3,40,000",Diesel,0.12
+372,Tata Vista Quadrajet VX,Tata,0.6666666666666666,"1,20,000",Diesel,0.225
+373,Maruti Suzuki Alto K10 VXi AT,Maruti,0.8333333333333334,"2,65,000",Petrol,0.03
+374,Maruti Suzuki SX4,Maruti,0.7083333333333334,"2,65,000",Diesel,0.115
+375,Maruti Suzuki Zen LXi BS III,Maruti,0.3333333333333333,"85,000",Petrol,0.17475
+376,Mahindra Jeep CL550 MDI,Mahindra,1.0,"3,79,000",Diesel,0.0
+377,Hyundai i10 Magna 1.2,Hyundai,0.6666666666666666,"1,75,000",Petrol,0.1125
+378,Maruti Suzuki Alto 800,Maruti,0.8333333333333334,"2,19,000",Petrol,0.0125
+379,Maruti Suzuki Swift Dzire Tour LDi,Maruti,0.875,"3,50,000",Diesel,0.415
+380,Honda City ZX EXi,Honda,0.5416666666666666,"1,49,000",Petrol,0.105
+381,Mahindra Jeep CL550 MDI,Mahindra,0.9583333333333334,"3,85,000",Diesel,0.00147
+382,Mahindra Jeep MM 550 XDB,Mahindra,0.4583333333333333,"4,25,000",Diesel,0.000305
+383,Chevrolet Beat Diesel,Chevrolet,0.9166666666666666,"1,50,000",Diesel,0.155
+384,Honda City 1.5 S MT,Honda,0.625,"2,25,000",Petrol,0.175
+386,Hyundai Verna 1.4 VTVT,Hyundai,0.7916666666666666,"3,75,000",Petrol,0.09
+387,Toyota Innova 2.5 E MS 7 STR BS IV,Toyota,0.7083333333333334,"7,70,000",Diesel,0.0
+388,Maruti Suzuki Alto 800 Lxi,Maruti,0.9583333333333334,Ask For Price,Petrol,0.06
+389,Maruti Suzuki Maruti 800 Std – Befo,Maruti,0.0,"30,000",Petrol,0.1375
+390,Toyota Etios,Toyota,0.6666666666666666,"2,75,000",Diesel,0.09
+391,Volkswagen Polo,Volkswagen,0.8333333333333334,"3,30,000",Diesel,0.095
+392,Maruti Suzuki Swift,Maruti,0.7916666666666666,"3,35,000",Diesel,0.1375
+393,Hyundai Elite i20 Asta 1.4 CRDI,Hyundai,0.8333333333333334,"4,50,000",Diesel,0.05
+394,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,0.7083333333333334,"2,25,000",Petrol,0.1
+396,Maruti Suzuki Versa DX2 8 SEATER BSIII,Maruti,0.375,"80,000",Petrol,0.125
+397,Tata Indigo LX TDI BS III,Tata,0.875,"1,30,000",Diesel,0.26
+398,Volkswagen Vento Konekt Diesel Highline,Volkswagen,0.6666666666666666,"2,45,000",Diesel,0.1625
+399,Mercedes Benz C Class 200 CDI Classic,Mercedes,0.2916666666666667,"3,99,000",Petrol,0.1025
+400,Maruti Suzuki Ertiga VDi,Maruti,0.75,"4,50,000",Diesel,0.225
+402,Honda City,Honda,0.20833333333333334,"65,000",Petrol,0.2
+403,Hyundai Santro Xing GLS,Hyundai,0.4583333333333333,"75,000",Petrol,0.115
+404,Maruti Suzuki Omni Limited Edition,Maruti,0.25,"70,000",Petrol,0.175
+405,Hyundai Sonata Transform 2.4 GDi MT,Hyundai,0.9166666666666666,"1,90,000",Diesel,0.0911725
+406,Hyundai Elite i20 Sportz 1.2,Hyundai,0.9583333333333334,"6,00,000",Petrol,0.0195
+407,Volkswagen Vento Konekt Diesel Highline,Volkswagen,0.6666666666666666,"2,45,000",Diesel,0.1625
+408,Maruti Suzuki Alto 800 Lxi,Maruti,0.9166666666666666,"2,40,000",Petrol,0.15
+409,Maruti Suzuki Alto LXi BS III,Maruti,0.6666666666666666,"1,55,000",Petrol,0.08
+410,Honda Jazz S MT,Honda,0.5833333333333334,"1,69,999",Petrol,0.0617375
+411,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,0.9166666666666666,"4,50,000",Petrol,0.0378525
+412,Maruti Suzuki Zen LXi BSII,Maruti,0.25,"40,000",Petrol,0.1
+413,Mahindra Scorpio W Turbo 2.6DX 9 Seater,Mahindra,0.7083333333333334,"1,65,000",Diesel,0.1625
+415,Maruti Suzuki Alto K10 VXi,Maruti,0.7916666666666666,"2,70,000",Petrol,0.055
+416,Hyundai Grand i10 Asta 1.2 Kappa VTVT,Hyundai,0.875,"2,80,000",Diesel,0.149775
+417,Mahindra XUV500 W8,Mahindra,0.7083333333333334,"5,60,000",Diesel,0.25
+418,Hyundai Creta 1.6 SX Plus Petrol,Hyundai,0.875,"9,50,000",Petrol,0.0625
+419,Hyundai i20 Magna O 1.2,Hyundai,0.75,"3,10,000",Petrol,0.0875
+420,Renault Duster 85 PS RxL Explore LE,Renault,0.8333333333333334,"7,15,000",Diesel,0.1625
+421,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,0.7916666666666666,"3,40,000",Petrol,0.0875
+422,Honda Brio V MT,Honda,0.7083333333333334,"2,35,000",Petrol,0.0825
+423,Mahindra TUV300 T4 Plus,Mahindra,0.9166666666666666,"6,10,000",Diesel,0.17
+424,Chevrolet Spark LS 1.0,Chevrolet,0.625,"95,000",Petrol,0.0575
+425,Mahindra TUV300 T8,Mahindra,0.9583333333333334,"10,00,000",Diesel,0.01125
+426,Maruti Suzuki Swift Dzire Tour LDi,Maruti,0.8333333333333334,"2,20,000",Diesel,0.3225
+427,Nissan X Trail Select Variant,Nissan,1.0,"12,00,000",Diesel,0.00075
+428,Maruti Suzuki Alto 800 Vxi,Maruti,0.8333333333333334,"2,30,000",Petrol,0.0125
+429,Ford Ikon 1.3 CLXi NXt Finesse,Ford,0.25,"45,000",Petrol,0.1625
+430,Toyota Fortuner 3.0 4x4 MT,Toyota,0.625,"9,40,000",Diesel,0.3275
+431,Tata Manza ELAN Quadrajet,Tata,0.625,"1,55,555",Petrol,0.2777775
+434,Mercedes Benz A Class A 180 Sport Petrol,Mercedes,0.75,"15,00,000",Petrol,0.035
+435,Chevrolet Beat LS Diesel,Chevrolet,0.875,"2,10,000",Diesel,0.055
+436,Ford EcoSport Trend 1.5L TDCi,Ford,0.75,"4,95,000",Diesel,0.095
+437,Tata Indigo LS,Tata,0.875,"1,25,000",Diesel,0.175
+438,Hyundai i20 Magna 1.2,Hyundai,0.625,"1,95,000",Petrol,0.09
+439,Volkswagen Vento Highline Plus 1.5 Diesel AT,Volkswagen,0.8333333333333334,"5,50,000",Diesel,0.085
+440,Renault Kwid RXT,Renault,0.8333333333333334,"2,70,000",Petrol,0.1075
+442,Ford EcoSport Titanium 1.5L TDCi,Ford,0.7916666666666666,"5,00,000",Diesel,0.1
+443,Honda Amaze 1.5 E i DTEC,Honda,0.875,"2,40,000",Diesel,0.4
+444,Hyundai Verna 1.6 EX VTVT,Hyundai,0.9166666666666666,"8,00,000",Petrol,0.03
+445,BMW 5 Series 520d Sedan,BMW,0.6666666666666666,"12,99,000",Diesel,0.1225
+446,Skoda Superb 1.8 TFSI AT,Skoda,0.6666666666666666,"5,30,000",Petrol,0.17
+447,Audi Q3 2.0 TDI quattro Premium,Audi,0.75,"14,99,000",Diesel,0.0925
+448,Mahindra Bolero DI BSII,Mahindra,0.7083333333333334,"2,20,000",Diesel,0.148665
+449,Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,0.6666666666666666,Ask For Price,Petrol,0.04
+450,Mahindra Scorpio S10,Mahindra,0.8333333333333334,"9,00,000",Diesel,0.243
+451,Ford Figo Duratorq Diesel Titanium 1.4,Ford,0.7083333333333334,"2,50,000",Diesel,0.2475
+452,Maruti Suzuki Wagon R VXI BS IV,Maruti,0.9583333333333334,"3,95,000",Petrol,0.06375
+453,Mahindra Logan Diesel 1.5 DLS,Mahindra,0.5833333333333334,"1,30,000",Petrol,0.165
+454,Tata Nano GenX XMA,Tata,0.625,"32,000",Petrol,0.1100125
+455,Mahindra TUV300 T4 Plus,Mahindra,0.875,"5,40,000",Diesel,0.0875
+456,Mahindra TUV300 T4 Plus,Mahindra,0.875,"5,40,000",Diesel,0.0875
+457,Hyundai Elite i20 Magna 1.2,Hyundai,0.8333333333333334,"4,05,000",Petrol,0.07
+458,Hyundai Elite i20 Magna 1.2,Hyundai,0.8333333333333334,"4,00,000",Petrol,0.075
+459,Honda City SV,Honda,0.9166666666666666,"7,60,000",Petrol,0.01
+460,Maruti Suzuki Baleno Delta 1.2,Maruti,0.875,"5,00,000",Petrol,0.07
+461,Ford Figo Petrol LXI,Ford,0.6666666666666666,"1,75,000",Petrol,0.1875
+462,Mahindra Scorpio S10,Mahindra,0.8333333333333334,"9,00,000",Diesel,0.243
+463,Honda City,Honda,0.9166666666666666,"7,50,000",Petrol,0.0075
+464,Hyundai Elite i20 Magna 1.2,Hyundai,0.8333333333333334,"4,19,000",Petrol,0.05
+465,Maruti Suzuki Versa DX2 8 SEATER BSIII,Maruti,0.375,"90,000",Petrol,0.125
+466,Hyundai Eon Era Plus,Hyundai,0.9583333333333334,"1,40,000",Petrol,0.005275
+467,Mitsubishi Pajero Sport Limited Edition,Mitsubishi,0.8333333333333334,"15,40,000",Petrol,0.108055
+468,Hyundai i10 Magna 1.2 Kappa2,Hyundai,0.5416666666666666,"2,75,000",Petrol,0.2505
+469,Toyota Corolla H2,Toyota,0.3333333333333333,"1,50,000",Petrol,0.25
+470,Maruti Suzuki Swift Dzire Tour VXi,Maruti,0.6666666666666666,"2,30,000",Petrol,0.0001625
+471,Tata Indigo CS eLS BS IV,Tata,0.8333333333333334,"1,23,000",Diesel,0.25
+472,Mahindra Scorpio S10,Mahindra,0.8333333333333334,"9,00,000",Diesel,0.243
+473,Mahindra Scorpio S10,Mahindra,0.8333333333333334,"9,00,000",Diesel,0.243
+474,Hyundai Xcent Base 1.1 CRDi,Hyundai,0.875,"3,00,000",Diesel,0.35
+475,Honda City,Honda,0.8333333333333334,"4,99,999",Petrol,0.1375
+476,Hyundai Accent Executive Edition,Hyundai,0.5833333333333334,"1,65,000",Petrol,0.12
+477,Maruti Suzuki Baleno Delta 1.2,Maruti,0.875,"4,98,000",Petrol,0.055
+478,Tata Zest XE 75 PS Diesel,Tata,0.9583333333333334,"4,80,000",Diesel,0.2588825
+479,Maruti Suzuki Dzire LDI,Maruti,0.9166666666666666,"4,88,000",Diesel,0.2
+480,Tata Sumo Gold LX BS IV,Tata,0.7916666666666666,"2,50,000",Diesel,0.2475
+481,Toyota Corolla Altis GL Petrol,Toyota,0.625,"2,20,000",Petrol,0.145
+482,Maruti Suzuki Eeco 7 STR,Maruti,0.75,"2,90,000",LPG,0.175
+483,Toyota Fortuner 3.0 4x2 MT,Toyota,0.8333333333333334,"15,25,000",Diesel,0.3
+484,Mahindra XUV500 W6,Mahindra,0.75,"5,48,900",Diesel,0.1245
+485,Tata Tigor Revotron XZ,Tata,1.0,"6,50,000",Diesel,0.00025
+486,Maruti Suzuki 800,Maruti,0.25,"55,000",Petrol,0.20469
+487,Maruti Suzuki Ertiga Vxi,Maruti,0.8333333333333334,"5,50,000",Petrol,0.1875
+488,Maruti Suzuki Versa DX2 8 SEATER BSIII,Maruti,0.375,"90,000",Petrol,0.125
+489,Honda Mobilio S i DTEC,Honda,0.7916666666666666,"3,99,000",Diesel,0.11
+490,Maruti Suzuki Ertiga,Maruti,0.875,"7,30,000",Diesel,0.1375
+491,Maruti Suzuki Vitara Brezza,Maruti,0.9166666666666666,"7,25,000",Diesel,0.09
+492,Hyundai Verna 1.6 CRDI E,Hyundai,0.875,"1,95,000",Diesel,0.14
+493,Maruti Suzuki Swift VXI BSIII,Maruti,0.5,"1,30,000",Petrol,0.155
+494,Toyota Fortuner 3.0 4x2 MT,Toyota,0.8333333333333334,"15,25,000",Diesel,0.3
+495,Maruti Suzuki Omni Select Variant,Maruti,0.7916666666666666,"1,90,000",Petrol,0.01505
+496,Honda Amaze,Honda,0.75,"2,50,000",Diesel,0.13925
+497,Tata Indica,Tata,0.4166666666666667,"80,000",Petrol,0.105
+498,Hyundai Santro Xing,Hyundai,0.3333333333333333,"1,20,000",Petrol,0.125
+499,Maruti Suzuki Zen Estilo,Maruti,0.625,"1,49,000",Petrol,0.0875
+500,Maruti Suzuki Wagon R LXI BS IV,Maruti,0.7916666666666666,"2,50,000",Petrol,0.04625
+501,Maruti Suzuki Wagon R,Maruti,0.5,"1,20,000",Petrol,0.0175
+502,Honda Brio VX AT,Honda,0.9166666666666666,"4,50,000",Petrol,0.0275
+503,Hyundai Xcent Base 1.1 CRDi,Hyundai,0.8333333333333334,Ask For Price,Diesel,0.45
+504,Maruti Suzuki Zen LXi BSII,Maruti,0.3333333333333333,"99,999",Petrol,0.1325
+505,Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,0.5416666666666666,"1,35,000",Petrol,0.0575
+506,Maruti Suzuki Wagon R Select Variant,Maruti,0.875,"2,25,000",Diesel,0.08875
+507,Maruti Suzuki Alto LXi BS III,Maruti,0.625,"99,000",Petrol,0.055335
+508,Renault Kwid RXT,Renault,1.0,"3,70,000",Petrol,0.0025
+509,Tata Nano Lx BSIV,Tata,0.625,"52,000",Petrol,0.0225
+510,Jaguar XE XE Portfolio,Jaguar,0.875,"28,00,000",Petrol,0.02125
+511,Hyundai Xcent S 1.2,Hyundai,0.8333333333333334,Ask For Price,Petrol,0.0875
+512,Hyundai Eon Magna Plus,Hyundai,0.7916666666666666,"1,90,000",Petrol,0.0875
+513,Honda City 1.5 S MT,Honda,0.7916666666666666,"4,99,000",Petrol,0.055
+514,Hindustan Motors Ambassador,Hindustan,0.2916666666666667,"90,000",Diesel,0.0625
+515,Maruti Suzuki Ritz GENUS VXI,Maruti,0.625,"1,49,000",Petrol,0.1
+516,Hyundai Grand i10 Magna AT 1.2 Kappa VTVT,Hyundai,0.9166666666666666,"4,00,000",Petrol,0.05
+517,Hyundai Eon D Lite Plus,Hyundai,0.875,"1,20,000",Petrol,0.2175
+518,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,0.8333333333333334,"2,50,000",Petrol,0.1375
+519,Maruti Suzuki Wagon R VXI BS IV,Maruti,0.9166666666666666,"3,75,000",Petrol,0.0575
+520,Honda Amaze 1.2 VX i VTEC,Honda,0.7916666666666666,"3,81,000",Petrol,0.015
+521,Maruti Suzuki Estilo VXi ABS BS IV,Maruti,0.75,"1,80,000",Petrol,0.1625
+522,Maruti Suzuki Vitara Brezza LDi O,Maruti,0.875,"5,80,000",Diesel,0.0625
+523,Maruti Suzuki Eeco 5 STR WITH AC HTR,Maruti,0.8333333333333334,"2,78,000",Petrol,0.0975
+524,Toyota Innova 2.0 V,Toyota,0.5833333333333334,Ask For Price,Diesel,0.038935
+525,Hyundai Creta 1.6 SX Plus Petrol AT,Hyundai,0.875,"10,00,000",Petrol,0.02
+526,Mahindra Scorpio Vlx BSIV,Mahindra,0.75,"6,90,000",Diesel,0.1875
+527,Maruti Suzuki Ertiga VDi,Maruti,0.7083333333333334,"4,80,000",Diesel,0.1275
+528,Mitsubishi Lancer 1.8 LXi,Mitsubishi,0.4583333333333333,"85,000",Petrol,0.125
+529,Maruti Suzuki Maruti 800 AC,Maruti,0.25,"40,000",Petrol,0.1875
+530,Maruti Suzuki Alto 800 LXI CNG O,Maruti,0.8333333333333334,"90,000",Petrol,0.1395
+531,Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,0.8333333333333334,"3,40,000",Petrol,0.1325
+532,Hyundai Eon D Lite Plus,Hyundai,0.9583333333333334,"2,60,000",Petrol,0.0625
+533,Ford Fiesta SXi 1.6 ABS,Ford,0.5833333333333334,"2,50,000",Petrol,0.141
+534,Maruti Suzuki Ritz VDi,Maruti,0.625,"1,80,000",Diesel,0.1804
+535,Hyundai Verna Fluidic New,Hyundai,0.7083333333333334,"3,50,000",Diesel,0.025
+536,Maruti Suzuki Wagon R LXi BS III,Maruti,0.4583333333333333,"90,001",Petrol,0.12
+537,Maruti Suzuki Estilo LX BS IV,Maruti,0.5,"1,15,000",Petrol,0.09
+538,Audi A6 2.0 TDI Premium,Audi,0.7083333333333334,"15,99,000",Diesel,0.02875
+539,Maruti Suzuki Wagon R LXi BS III,Maruti,0.3333333333333333,"1,30,000",Petrol,0.3325
+540,Maruti Suzuki Wagon R,Maruti,0.5833333333333334,"1,59,000",Petrol,0.0675
+541,Maruti Suzuki Wagon R,Maruti,0.5833333333333334,"1,60,000",Petrol,0.0875
+542,Maruti Suzuki Alto,Maruti,0.625,"1,10,000",Petrol,0.1375
+543,Maruti Suzuki Baleno Sigma 1.2,Maruti,0.875,"4,25,000",Petrol,0.1
+544,Hyundai Verna 1.6 SX VTVT AT,Hyundai,1.0,"9,00,000",Petrol,0.005
+545,Maruti Suzuki Swift GLAM,Maruti,0.5833333333333334,"1,50,000",Petrol,0.1125
+546,Hyundai Getz Prime 1.3 GVS,Hyundai,0.5833333333333334,"1,10,000",Petrol,0.05
+547,Hyundai Santro,Hyundai,0.20833333333333334,"51,999",Petrol,0.22
+548,Hyundai Getz Prime 1.3 GLX,Hyundai,0.5833333333333334,"1,15,000",Petrol,0.05
+549,Chevrolet Beat PS Diesel,Chevrolet,0.7083333333333334,"2,15,000",Diesel,0.163555
+550,Ford EcoSport Trend 1.5 Ti VCT,Ford,0.9166666666666666,"5,80,000",Petrol,0.025
+551,Maruti Suzuki Dzire ZXI,Maruti,0.75,"3,80,000",Petrol,0.0875
+552,Hyundai Fluidic Verna 1.6 CRDi SX,Hyundai,0.75,"3,50,000",Diesel,0.2925
+553,Tata Indica V2 DLG,Tata,0.4166666666666667,"35,000",Diesel,0.375
+554,BMW X1 xDrive20d xLine,BMW,0.6666666666666666,"11,50,000",Diesel,0.18
+555,Hyundai i20 Asta 1.2,Hyundai,0.625,"3,00,000",Petrol,0.026875
+556,Honda City 1.5 V AT,Honda,0.5833333333333334,"2,69,000",Petrol,0.1375
+557,Tata Nano,Tata,0.75,"60,000",Petrol,0.017
+558,Chevrolet Cruze LTZ AT,Chevrolet,0.7916666666666666,"4,00,000",Diesel,0.1025
+559,Hyundai Verna Fluidic New,Hyundai,0.8333333333333334,"4,30,000",Diesel,0.1825
+561,Maruti Suzuki Swift Dzire VDi,Maruti,0.6666666666666666,"1,40,000",Diesel,0.1625
+562,Mahindra XUV500 W6,Mahindra,0.7916666666666666,"85,00,003",Diesel,0.1125
+563,Mahindra XUV500 W10,Mahindra,0.9583333333333334,"12,99,000",Diesel,0.1
+564,Maruti Suzuki Alto K10 LXi CNG,Maruti,0.7916666666666666,"1,99,000",Petrol,0.0925
+565,Hyundai Accent GLE,Hyundai,0.4583333333333333,"90,000",Petrol,0.1375
+566,Force Motors One SUV,Force,0.75,"5,50,000",Diesel,0.35
+567,Datsun Go Plus T O,Datsun,0.875,Ask For Price,Petrol,1.25e-05
+568,Maruti Suzuki Alto,Maruti,1.0,"2,65,000",Petrol,0.0245
+569,Chevrolet Spark 1.0 LT,Chevrolet,0.6666666666666666,"1,00,000",Petrol,0.0675
+570,Hyundai i10,Hyundai,0.5833333333333334,"2,15,000",Petrol,0.0675
+571,Toyota Etios Liva GD,Toyota,0.7083333333333334,"3,80,000",Diesel,0.05
+572,Renault Duster 85PS Diesel RxL Optional with Nav,Renault,0.75,"4,01,919",Diesel,0.1448075
+573,Chevrolet Enjoy,Chevrolet,0.7916666666666666,"4,90,000",Diesel,0.0755025
+574,Maruti Suzuki Alto 800 Lxi,Maruti,0.9166666666666666,"2,80,000",Petrol,0.0155
+575,BMW 5 Series 530i,BMW,0.5833333333333334,"6,50,000",Petrol,0.093795
+576,Toyota Etios Liva G,Toyota,0.7916666666666666,"1,60,000",Petrol,0.06163
+577,Mahindra Jeep MM 550 XDB,Mahindra,0.375,"4,24,000",Diesel,0.0009575
+578,Chevrolet Beat LS Diesel,Chevrolet,0.875,"2,25,000",Diesel,0.2375
+579,Chevrolet Cruze LTZ,Chevrolet,0.6666666666666666,"3,50,000",Diesel,0.0875
+580,Jeep Wrangler Unlimited 4x4 Diesel,Jeep,0.8333333333333334,"9,50,000",Diesel,0.00882
+581,Maruti Suzuki Ertiga VDi,Maruti,0.75,"4,85,000",Diesel,0.13125
+582,Hyundai Verna VGT CRDi SX ABS,Hyundai,0.625,"2,05,000",Diesel,0.11975
+583,Maruti Suzuki Omni,Maruti,0.7083333333333334,"1,60,000",Petrol,0.035
+584,Maruti Suzuki Celerio VDi,Maruti,0.9583333333333334,"3,10,000",Petrol,0.0925
+585,Tata Zest Quadrajet 1.3,Tata,0.9166666666666666,"1,80,000",Diesel,0.225
+586,Mahindra XUV500 W6,Mahindra,0.75,"5,49,900",Diesel,0.132
+587,Tata Indigo CS eLX BS IV,Tata,0.875,"1,50,000",Diesel,0.26
+588,Hyundai i10 Era,Hyundai,0.6666666666666666,"1,75,000",Petrol,0.075
+589,Tata Indigo eCS LX TDI BS III,Tata,0.7916666666666666,"95,000",Diesel,0.4875
+590,Tata Indigo LX TDI BS III,Tata,0.875,"2,30,000",Diesel,0.26
+591,Tata Indigo eCS LX CR4 BS IV,Tata,0.875,"2,30,000",Diesel,0.26
+592,Tata Indigo Marina LS,Tata,0.375,"1,80,000",Diesel,0.175
+594,Hyundai Xcent SX 1.2,Hyundai,0.8333333333333334,"4,00,000",Diesel,0.1075
+595,Hyundai Eon Magna Plus,Hyundai,0.75,"1,85,000",Petrol,0.0575
+596,Renault Duster 85 PS RxL Diesel,Renault,0.8333333333333334,"3,85,000",Diesel,0.1275
+597,Maruti Suzuki Alto K10 LXi CNG,Maruti,0.5833333333333334,"90,000",Petrol,0.155
+598,Tata Nano LX Special Edition,Tata,0.625,"32,000",Petrol,0.12002
+600,Renault Duster 110 PS RxZ Diesel,Renault,0.75,"4,35,000",Diesel,0.0975
+601,Maruti Suzuki Wagon R AX BSIV,Maruti,0.625,"2,25,000",Petrol,0.1
+602,Maruti Suzuki Swift,Maruti,0.4583333333333333,"1,89,700",Petrol,0.1206175
+603,Maruti Suzuki Ertiga,Maruti,0.7083333333333334,"3,89,700",Diesel,0.0975
+604,Maruti Suzuki Swift VXi 1.2 ABS BS IV,Maruti,0.7916666666666666,"3,65,000",Petrol,0.0575
+605,Maruti Suzuki Alto K10 New,Maruti,0.9166666666666666,"3,60,000",Petrol,0.0235
+606,Hyundai i20 Magna,Hyundai,0.625,"2,10,000",Petrol,0.125
+607,Hyundai i10 Magna 1.2,Hyundai,0.5833333333333334,"1,70,000",Petrol,0.1875
+609,Tata Zest XE 75 PS Diesel,Tata,0.9166666666666666,"3,80,000",Diesel,0.175
+610,Mahindra Xylo E8,Mahindra,0.5833333333333334,"2,95,000",Diesel,0.16
+611,Toyota Corolla Altis GL Petrol,Toyota,0.625,"1,85,000",Petrol,0.1375
+612,Tata Manza Aqua Quadrajet,Tata,0.7916666666666666,"1,60,000",Diesel,0.5
+613,Mahindra KUV100 K8 D 6 STR,Mahindra,0.9583333333333334,Ask For Price,Diesel,0.01875
+615,Renault Kwid 1.0,Renault,0.9583333333333334,"2,90,000",Petrol,0.0053425
+617,Tata Venture EX 8 STR,Tata,0.75,"1,00,000",Diesel,0.075
+618,Maruti Suzuki Swift Dzire Tour LXi,Maruti,0.7916666666666666,"3,15,000",Petrol,0.11
+619,Maruti Suzuki Alto LX BSII,Maruti,0.2916666666666667,Ask For Price,Petrol,0.14
+620,Skoda Octavia Classic 1.9 TDI MT,Skoda,0.4583333333333333,"1,14,990",Diesel,0.1625
+621,Maruti Suzuki Omni LPG BS IV,Maruti,0.7083333333333334,"1,20,000",LPG,0.4
+622,Chevrolet Beat Diesel,Chevrolet,0.6666666666666666,"1,25,000",Diesel,0.14
+623,Tata Sumo Gold EX BS IV,Tata,0.7083333333333334,"2,10,000",Diesel,0.1875
+625,Hyundai Verna 1.6 CRDI SX,Hyundai,0.9583333333333334,"8,55,000",Diesel,0.105
+626,Tata Sumo Gold EX BS IV,Tata,0.7083333333333334,"2,10,000",Diesel,0.1875
+627,Mahindra Scorpio 2.6 CRDe,Mahindra,0.5,"2,60,000",Diesel,0.14
+628,Maruti Suzuki Zen LXi BS III,Maruti,0.2916666666666667,"95,000",Petrol,0.02636
+629,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,0.6666666666666666,"2,55,000",Petrol,0.16
+630,Mahindra Scorpio SLX 2.6 Turbo 8 Str,Mahindra,0.5416666666666666,"3,00,000",Diesel,0.175
+631,Hyundai Grand i10 Sportz 1.2 Kappa VTVT,Hyundai,0.7916666666666666,"3,40,000",Petrol,0.0625
+632,Hyundai Elite i20 Sportz 1.2,Hyundai,0.9166666666666666,"5,50,000",Petrol,0.0375
+633,Ford Ikon 1.6 Nxt,Ford,0.3333333333333333,"60,000",Petrol,0.125
+634,Hyundai Elite i20 Sportz 1.2,Hyundai,0.8333333333333334,Ask For Price,Petrol,0.12375
+636,Toyota Innova 2.5 V 7 STR,Toyota,0.6666666666666666,"7,50,000",Diesel,0.3675
+637,Nissan Sunny XL,Nissan,0.6666666666666666,"2,30,000",Petrol,0.13
+638,Chevrolet Beat LT Diesel,Chevrolet,0.7083333333333334,"1,30,000",Diesel,0.2250025
+639,Maruti Suzuki Alto 800 Lxi,Maruti,0.9166666666666666,"2,70,000",Petrol,0.0525
+640,Maruti Suzuki Swift VDi BS IV,Maruti,0.7083333333333334,"2,80,000",Diesel,0.120015
+641,Maruti Suzuki Swift VDi BS IV,Maruti,0.7083333333333334,"2,80,000",Diesel,0.120015
+642,Maruti Suzuki Swift,Maruti,0.7083333333333334,"2,80,000",Diesel,0.120015
+644,Toyota Innova 2.0 G4,Toyota,0.7083333333333334,"6,00,000",Diesel,0.2
+646,Maruti Suzuki Swift VDi ABS,Maruti,0.625,"1,90,000",Diesel,0.185
+647,Hyundai Elite i20 Asta 1.2,Hyundai,0.8333333333333334,"5,00,000",Petrol,0.055
+648,Mahindra XUV500 W10,Mahindra,0.875,"10,65,000",Diesel,0.1025
+649,Volkswagen Polo Trendline 1.5L D,Volkswagen,0.8333333333333334,"3,50,000",Diesel,0.0625
+650,Toyota Etios Liva Diesel,Toyota,0.7083333333333334,"3,50,000",Diesel,0.2125
+651,Mahindra TUV300 T4 Plus,Mahindra,0.875,"5,40,000",Diesel,0.07375
+652,Hyundai Elite i20 Asta 1.2,Hyundai,0.8333333333333334,"4,70,000",Petrol,0.075
+653,Hyundai Santro Xing GLS,Hyundai,0.7916666666666666,"1,79,000",Petrol,0.1425
+654,Maruti Suzuki Zen LXi BS III,Maruti,0.3333333333333333,"48,000",Petrol,0.15
+655,Maruti Suzuki Ciaz ZXi Plus RS,Maruti,0.875,"6,50,000",Petrol,0.125
+656,Hyundai Eon Era Plus,Hyundai,0.75,"1,90,000",Petrol,0.09925
+657,Hyundai Elantra 1.8 S,Hyundai,0.7083333333333334,"5,00,000",Petrol,0.1625
+658,Maruti Suzuki Swift VDi,Maruti,0.625,"2,70,000",Diesel,0.1675
+659,Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,0.5416666666666666,"1,25,000",Petrol,0.115
+660,Hyundai Eon Era Plus,Hyundai,0.7083333333333334,"1,88,000",Petrol,0.095
+661,Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,0.875,"3,80,000",Petrol,0.0675
+662,Hyundai Verna Fluidic New,Hyundai,0.6666666666666666,"3,65,000",Diesel,0.1075
+663,Ford EcoSport Trend 1.5L Ti VCT,Ford,0.7916666666666666,"4,65,000",Petrol,0.1175
+664,Hyundai i20 Magna,Hyundai,0.6666666666666666,"2,40,000",Petrol,0.105
+665,Chevrolet Beat Diesel,Chevrolet,0.875,"1,79,999",Diesel,0.04834
+666,Tata Indica eV2 LS,Tata,0.8333333333333334,"1,40,000",Diesel,0.1502625
+667,Jaguar XF 2.2 Diesel Luxury,Jaguar,0.75,"21,90,000",Diesel,0.0725
+668,Audi Q5 2.0 TDI quattro Premium Plus,Audi,0.7916666666666666,"23,90,000",Diesel,0.085
+669,BMW 3 Series 320d Sedan,BMW,0.6666666666666666,"10,75,000",Diesel,0.0875
+670,Maruti Suzuki Swift ZXi 1.2 BS IV,Maruti,0.8333333333333334,"4,75,000",Petrol,0.055
+671,BMW X1 sDrive20d,BMW,0.7083333333333334,"10,25,000",Diesel,0.1025
+672,Maruti Suzuki S Cross Sigma 1.3,Maruti,0.875,"6,15,000",Diesel,0.0525
+673,Maruti Suzuki Ertiga LDi,Maruti,0.75,"4,75,000",Diesel,0.12
+674,Maruti Suzuki Alto K10 VXi AMT,Maruti,0.875,"2,70,000",Petrol,0.095
+675,Honda City SV,Honda,0.7916666666666666,"4,75,000",Diesel,0.085
+676,Volkswagen Vento Comfortline Petrol,Volkswagen,0.6666666666666666,"2,40,000",Petrol,0.1148325
+677,Honda City 1.5 EXi New,Honda,0.4166666666666667,"1,20,000",Petrol,0.17
+678,Audi A4 2.0 TDI 177bhp Premium,Audi,0.875,"19,00,000",Diesel,0.11
+679,Mahindra KUV100,Mahindra,0.9166666666666666,"3,60,000",Diesel,0.0875
+680,Tata Zest XE 75 PS Diesel,Tata,0.9583333333333334,"4,50,000",Diesel,0.2564075
+681,Mahindra XUV500 W8,Mahindra,0.8333333333333334,"9,00,000",Diesel,0.0715
+682,Maruti Suzuki Swift Dzire Tour VDi,Maruti,0.9166666666666666,"6,50,000",Diesel,0.1045
+683,Tata Sumo Gold LX BS IV,Tata,0.7916666666666666,"2,75,000",Diesel,0.29
+684,Maruti Suzuki Swift Dzire VXi 1.2 BS IV,Maruti,0.5833333333333334,"2,10,000",Petrol,0.1475
+685,Mahindra Scorpio 2.6 SLX,Mahindra,0.375,"1,75,000",Diesel,0.145
+686,Maruti Suzuki Omni 8 STR BS III,Maruti,0.5833333333333334,"85,000",Petrol,0.1125
+687,Mitsubishi Pajero Sport Limited Edition,Mitsubishi,0.8333333333333334,"14,90,000",Diesel,0.106475
+688,Renault Duster,Renault,0.7916666666666666,"8,00,000",Diesel,0.0185
+689,Volkswagen Jetta Comfortline 1.9 TDI AT,Volkswagen,0.5833333333333334,"4,50,000",Diesel,0.13625
+690,Maruti Suzuki Ertiga Vxi,Maruti,0.7083333333333334,"10,00,000",Diesel,0.5
+691,Audi A4 2.0 TDI 177bhp Premium,Audi,0.75,"15,10,000",Diesel,0.0675
+692,Volvo S80 Summum D4,Volvo,0.8333333333333334,"18,50,000",Diesel,0.105
+693,Toyota Corolla Altis VL AT Petrol,Toyota,0.7916666666666666,"7,90,000",Petrol,0.0725
+694,Mitsubishi Pajero Sport 2.5 AT,Mitsubishi,0.8333333333333334,"17,25,000",Diesel,0.0925
+695,Chevrolet Beat LT Petrol,Chevrolet,0.7083333333333334,"1,35,000",Petrol,0.09
+696,BMW X1,BMW,0.6666666666666666,"10,00,000",Diesel,0.085
+697,Datsun Redi GO S,Datsun,0.9583333333333334,"2,99,999",Petrol,0.0175
+698,Mercedes Benz C Class C 220 CDI Avantgarde,Mercedes,0.5833333333333334,"12,25,000",Diesel,0.19
+699,Mahindra Scorpio SLX,Mahindra,0.375,"1,75,000",Diesel,0.15
+700,Volkswagen Vento Comfortline Diesel,Volkswagen,0.6666666666666666,"2,00,000",Diesel,0.2375
+701,Tata Indigo CS GLS,Tata,0.9166666666666666,"2,70,000",Diesel,0.125
+702,Ford Figo Petrol Titanium,Ford,1.0,"5,25,000",Petrol,0.0
+703,Honda City ZX GXi,Honda,0.4583333333333333,"1,80,000",Petrol,0.125
+704,Maruti Suzuki Wagon R Duo Lxi,Maruti,0.5416666666666666,"1,40,000",Petrol,0.17
+705,Ford EcoSport Trend 1.5L TDCi,Ford,0.7916666666666666,"4,00,000",Petrol,0.04
+706,Maruti Suzuki Swift Dzire VDi,Maruti,0.875,"4,99,000",Diesel,0.1275
+707,Maruti Suzuki Omni 8 STR BS III,Maruti,0.5833333333333334,"85,000",Petrol,0.14
+708,Maruti Suzuki Zen LX BSII,Maruti,0.375,"70,000",Petrol,0.25
+709,Renault Duster RxL Petrol,Renault,0.8333333333333334,"5,50,000",Petrol,0.09
+710,Maruti Suzuki Swift VXi 1.2 BS IV,Maruti,0.7916666666666666,"3,70,000",Petrol,0.0288075
+711,Maruti Suzuki Baleno Zeta 1.2,Maruti,0.9583333333333334,"6,90,000",Petrol,0.0025
+712,Honda WR V S MT Petrol,Honda,0.5833333333333334,"2,50,000",Petrol,0.15
+713,Tata Indigo CS eLX BS IV,Tata,0.875,"1,10,000",Diesel,0.2125
+714,Renault Duster 110 PS RxL Diesel,Renault,0.75,"4,90,000",Diesel,0.0965
+715,Mahindra Scorpio LX BS III,Mahindra,0.5833333333333334,"3,20,000",Diesel,0.23875
+716,Maruti Suzuki Zen LXi BS III,Maruti,0.375,"68,000",Petrol,0.14
+717,Maruti Suzuki Wagon R LXi BS III,Maruti,0.7916666666666666,"1,30,000",Petrol,0.093645
+718,Maruti Suzuki SX4 Celebration Diesel,Maruti,0.875,"9,70,000",Diesel,0.2149
+719,Audi A3 Cabriolet 40 TFSI,Audi,0.8333333333333334,"31,00,000",Petrol,0.03129
+720,Hyundai Eon D Lite Plus,Hyundai,0.9583333333333334,"2,80,000",Petrol,0.0875
+721,Maruti Suzuki Zen Estilo LXI Green CNG,Maruti,0.5833333333333334,"1,25,000",Petrol,0.0
+722,Mahindra Scorpio SLX,Mahindra,0.5416666666666666,"2,85,000",Diesel,0.2
+724,Hyundai Santro AE GLS Audio,Hyundai,0.6666666666666666,"1,65,000",Petrol,0.1125
+726,Maruti Suzuki Swift Dzire Tour VDi,Maruti,0.5833333333333334,"2,50,000",Diesel,0.1275
+727,Mahindra Scorpio S4,Mahindra,0.8333333333333334,"8,65,000",Diesel,0.075
+729,Mahindra Xylo D2 BS IV,Mahindra,0.6666666666666666,"3,90,000",Diesel,0.12
+730,Hyundai Santro,Hyundai,0.3333333333333333,"60,000",Petrol,0.1275
+731,Chevrolet Beat LT Diesel,Chevrolet,0.8333333333333334,"2,15,000",Diesel,0.225
+732,Maruti Suzuki Swift Dzire VDi,Maruti,0.8333333333333334,"4,75,000",Diesel,0.1075
+733,Mahindra XUV500 W8,Mahindra,0.8333333333333334,"8,99,000",Diesel,0.1325
+734,Toyota Fortuner 3.0 4x4 MT,Toyota,0.75,"14,99,000",Diesel,0.2425
+735,Maruti Suzuki Alto K10 VXi,Maruti,0.75,"2,40,000",Petrol,0.05
+736,Hyundai Getz GLE,Hyundai,0.5,"99,000",Petrol,0.1375
+737,Maruti Suzuki Swift Dzire Tour LDi,Maruti,0.7916666666666666,"2,60,000",Diesel,0.3
+738,Hyundai Creta 1.6 SX,Hyundai,1.0,"12,00,000",Petrol,0.0
+739,Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,0.5,"1,15,000",Petrol,0.115
+740,Hyundai Santro Xing XL eRLX Euro III,Hyundai,0.5833333333333334,"88,000",Petrol,0.108
+741,Mahindra Xylo D2 BS IV,Mahindra,0.6666666666666666,"3,90,000",Diesel,0.14
+742,Hyundai Santro Xing XL eRLX Euro III,Hyundai,0.5,"1,35,000",Petrol,0.105
+743,Tata Indica V2 DLS BS III,Tata,0.5833333333333334,"90,000",Diesel,0.0765
+744,Hyundai i10 Sportz 1.2,Hyundai,0.6666666666666666,"2,20,000",Petrol,0.095
+745,Hyundai Grand i10 Magna 1.2 Kappa VTVT,Hyundai,0.9166666666666666,"4,24,999",Petrol,0.006375
+746,Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,0.5,"1,35,000",Petrol,0.1175
+747,Honda City 1.5 E MT,Honda,0.4166666666666667,"95,000",Petrol,0.1025
+748,Nissan Micra XL,Nissan,0.9166666666666666,"4,30,000",Diesel,0.15625
+749,Honda City 1.5 S Inspire,Honda,0.4166666666666667,"1,15,000",Petrol,0.17
+750,Maruti Suzuki Alto 800 Lxi,Maruti,0.8333333333333334,"2,15,000",Petrol,0.125
+751,Maruti Suzuki Wagon R LX BS III,Maruti,0.375,"53,000",Petrol,0.1725
+752,Maruti Suzuki Ertiga VDi,Maruti,0.7083333333333334,"5,00,000",Diesel,0.12
+753,Tata Indica eV2 eXeta eGLX,Tata,0.7083333333333334,"85,000",Diesel,0.1375
+754,Maruti Suzuki Omni E 8 STR BS IV,Maruti,0.75,"1,65,000",Petrol,0.0625
+755,Hyundai Eon Era Plus,Hyundai,0.7916666666666666,"2,00,000",Petrol,0.071
+756,Hyundai Eon,Hyundai,0.7916666666666666,"2,00,000",Petrol,0.07
+757,Maruti Suzuki Swift LDi,Maruti,0.8333333333333334,"4,25,000",Diesel,0.105
+759,Hyundai Verna 1.6 CRDI SX Plus AT,Hyundai,0.7083333333333334,"6,00,000",Diesel,0.0725
+760,Chevrolet Tavera LS B3 10 Seats BSII,Chevrolet,0.4166666666666667,"1,30,000",Diesel,0.1712125
+761,Tata Tiago Revotron XM,Tata,0.9583333333333334,"4,30,000",Petrol,0.00875
+762,Tata Tiago Revotorq XZ,Tata,1.0,"5,68,500",Petrol,0.0
+763,Tata Nexon,Tata,1.0,Ask For Price,Petrol,0.0
+765,Maruti Suzuki Zen LXi BS III,Maruti,0.4583333333333333,"71,000",Petrol,0.08
+766,Mahindra KUV100 K8 D 6 STR,Mahindra,0.9583333333333334,"5,60,000",Diesel,0.02
+767,Ford EcoSport Titanium 1.5 TDCi,Ford,0.7916666666666666,"5,90,000",Diesel,0.085
+768,Hindustan Motors Ambassador Classic Mark 4 – Befo,Hindustan,0.0,"7,50,000",Petrol,0.0925
+769,Ford Fusion 1.4 TDCi Diesel,Ford,0.5,"1,25,000",Diesel,0.2136375
+770,Hyundai Santro Xing XL AT eRLX Euro III,Hyundai,0.5,"1,35,000",Petrol,0.115
+771,Hyundai Santro,Hyundai,0.2916666666666667,"60,000",Petrol,0.1175
+772,Fiat Linea Emotion 1.4 L T Jet Petrol,Fiat,0.5833333333333334,"1,20,000",Petrol,0.16
+773,Ford Ikon 1.3 Flair Josh 100,Ford,0.5416666666666666,"95,000",Petrol,0.115
+774,Maruti Suzuki Omni E 8 STR BS IV,Maruti,0.9166666666666666,"2,40,000",Petrol,0.02
+775,Tata Indica V2 LS,Tata,0.7083333333333334,"1,15,000",Diesel,0.16
+776,Mahindra Scorpio S4,Mahindra,0.8333333333333334,"7,95,000",Diesel,0.1575
+777,Hyundai Santro Xing XL eRLX Euro III,Hyundai,0.5,"55,000",Petrol,0.1625
+778,Mahindra Xylo D2,Mahindra,0.5833333333333334,"3,00,000",Diesel,0.155
+779,Hyundai Grand i10 Asta 1.2 Kappa VTVT,Hyundai,0.7916666666666666,"3,20,000",Petrol,0.1025
+780,Maruti Suzuki Alto 800 Lxi,Maruti,0.8333333333333334,"2,65,000",Petrol,0.035
+781,Toyota Corolla,Toyota,0.4583333333333333,"1,60,000",Petrol,0.1
+782,Hyundai Eon Magna,Hyundai,0.9166666666666666,"3,00,000",Petrol,0.004
+783,Tata Sumo Grande MKII GX,Tata,0.625,"1,30,000",Diesel,0.225
+784,Maruti Suzuki Swift VDi,Maruti,0.6666666666666666,"2,50,000",Diesel,0.145
+785,Volkswagen Polo Highline1.2L P,Volkswagen,0.75,"3,80,000",Petrol,0.0675
+786,Maruti Suzuki Alto 800 Lx,Maruti,0.3333333333333333,"42,000",Petrol,0.15
+787,Tata Tiago Revotron XZ,Tata,0.9166666666666666,"4,00,000",Petrol,0.0775
+788,Maruti Suzuki Swift LDi,Maruti,0.5833333333333334,"1,20,000",Diesel,0.225
+789,Maruti Suzuki Swift VDi,Maruti,0.5833333333333334,"1,20,000",Diesel,0.225
+790,Tata Indigo eCS,Tata,0.875,"1,30,000",Diesel,0.375
+791,Chevrolet Beat LS Diesel,Chevrolet,0.7916666666666666,"1,89,000",Diesel,0.0775
+793,Mahindra Xylo E8 BS IV,Mahindra,0.6666666666666666,"3,65,000",Diesel,0.1075
+794,Hyundai Eon D Lite Plus,Hyundai,0.75,"1,70,000",Petrol,0.05
+804,Tata Sumo Gold FX BSIII,Tata,0.75,"2,15,000",Petrol,0.25
+813,Tata Nano,Tata,0.75,"60,000",Petrol,0.0175
+814,Hyundai Elite i20,Hyundai,0.9166666666666666,"5,99,999",Petrol,0.0775
+815,Hyundai i10 Magna 1.2 Kappa2,Hyundai,0.5833333333333334,"4,00,000",Petrol,0.0825
+816,Hyundai Creta,Hyundai,0.875,"9,00,000",Diesel,0.15
+817,Volkswagen Polo,Volkswagen,0.75,"2,99,999",Diesel,0.12
+818,Maruti Suzuki Dzire,Maruti,0.7916666666666666,"3,74,999",Petrol,0.0825
+819,Tata Bolt XM Petrol,Tata,0.8333333333333334,"6,00,000",Petrol,0.0375
+820,Maruti Suzuki Alto 800 Lx,Maruti,0.4166666666666667,"70,000",Petrol,0.1175
+821,Maruti Suzuki Alto,Maruti,0.4166666666666667,"1,00,000",Petrol,0.1
+822,Hyundai Venue,Hyundai,1.0,Ask For Price,Diesel,0.0175
+823,Maruti Suzuki Ritz,Maruti,0.625,"1,50,000",Diesel,0.095
+824,Maruti Suzuki Alto 800 Lxi,Maruti,0.9166666666666666,"2,25,000",Petrol,0.03125
+825,Maruti Suzuki Dzire,Maruti,0.5833333333333334,"2,10,000",Petrol,0.105
+826,Renault Lodgy,Renault,0.875,Ask For Price,Diesel,0.05
+827,Hyundai i20 Asta,Hyundai,0.7916666666666666,"4,25,000",Petrol,0.0775
+828,Maruti Suzuki Swift Select Variant,Maruti,0.5416666666666666,"1,62,000",Diesel,0.15
+829,Tata Indica V2 DLX BS III,Tata,0.4166666666666667,"60,000",Diesel,0.2
+830,Mahindra Scorpio VLX 2.2 mHawk Airbag BSIV,Mahindra,0.7916666666666666,"6,50,000",Diesel,0.1925
+831,Toyota Innova 2.5 E 8 STR,Toyota,0.7083333333333334,"7,50,000",Diesel,0.1875
+832,Mahindra Xylo E8,Mahindra,0.625,"3,75,000",Diesel,0.1
+833,Hyundai i20 Magna 1.2,Hyundai,0.6666666666666666,"2,30,000",Petrol,0.1175
+834,Maruti Suzuki Omni,Maruti,0.20833333333333334,"35,999",Petrol,0.15
+835,Mahindra KUV100,Mahindra,0.875,"3,80,000",Petrol,0.06625
+836,Mahindra KUV100 K8 6 STR,Mahindra,1.0,"5,60,000",Petrol,0.0071875
+837,Datsun Go Plus,Datsun,0.875,"2,85,000",Petrol,0.03475
+838,Ford Endeavor 4x4 Thunder Plus,Ford,1.0,"29,00,000",Diesel,0.0225
+839,Tata Indica V2,Tata,0.4166666666666667,"39,999",Diesel,0.2
+840,Hyundai Santro Xing GL,Hyundai,0.4583333333333333,"85,000",Petrol,0.15
+841,Maruti Suzuki Wagon R 1.0 VXi,Maruti,0.875,"3,95,000",Petrol,0.05
+842,Maruti Suzuki Swift Select Variant,Maruti,0.5416666666666666,"1,75,000",Diesel,0.145
+843,Maruti Suzuki Alto 800 Lx,Maruti,1.0,"4,00,000",Petrol,0.00375
+844,Toyota Innova 2.5 Z Diesel 7 Seater,Toyota,0.6666666666666666,"7,50,000",Diesel,0.1875
+846,Maruti Suzuki Alto 800,Maruti,0.875,"2,50,000",Petrol,0.006125
+847,Maruti Suzuki Alto AX,Maruti,1.0,"4,25,000",Petrol,0.0040625
+848,Maruti Suzuki Alto 800 Lx,Maruti,1.0,Ask For Price,Petrol,0.00375
+849,Volkswagen Polo Highline1.2L P,Volkswagen,0.9166666666666666,"5,25,000",Petrol,0.1125
+850,Mahindra Logan,Mahindra,0.5833333333333334,"1,30,000",Diesel,0.1625
+851,Maruti Suzuki 800 Std BS III,Maruti,0.20833333333333334,"30,000",Petrol,0.0835
+852,Mahindra Scorpio,Mahindra,0.6666666666666666,"4,75,000",Diesel,0.1503075
+853,Chevrolet Sail 1.2 LS,Chevrolet,0.75,"3,00,000",Petrol,0.07
+854,Volkswagen Vento Highline Plus 1.5 Diesel,Volkswagen,0.8333333333333334,Ask For Price,Diesel,0.09725
+855,Hyundai Santro AE GLS Audio,Hyundai,0.3333333333333333,"60,000",Petrol,0.175
+856,Maruti Suzuki Wagon R VXi Minor,Maruti,0.4583333333333333,"1,00,000",Petrol,0.0175
+857,Hyundai Eon,Hyundai,0.9583333333333334,"2,60,000",Petrol,0.0625
+858,Tata Manza,Tata,0.8333333333333334,"1,00,000",Diesel,0.25
+859,Toyota Innova 2.0 G1 Petrol 8seater,Toyota,1.0,Ask For Price,Petrol,0.01
+860,Toyota Etios G,Toyota,0.75,"2,65,000",Petrol,0.105
+861,Hyundai Getz Prime 1.3 GLX,Hyundai,0.5833333333333334,"1,15,000",Petrol,0.05
+862,Toyota Qualis,Toyota,0.3333333333333333,"1,80,000",Diesel,0.25
+863,Hyundai Santro Xing,Hyundai,0.375,"45,000",Petrol,0.3437375
+864,Tata Indica eV2 LS,Tata,0.875,"50,500",Diesel,0.228
+865,Honda City 1.5 S MT,Honda,0.5833333333333334,"2,70,000",Petrol,0.1375
+866,Tata Zest XE 75 PS Diesel,Tata,0.9166666666666666,"2,90,000",Diesel,0.3
+867,Mahindra Quanto C4,Mahindra,0.75,"3,25,000",Diesel,0.1575
+868,Tata Indigo eCS LX CR4 BS IV,Tata,0.875,"1,60,000",Diesel,0.26
+869,Maruti Suzuki Swift Dzire,Maruti,0.875,"3,50,000",Diesel,0.365
+870,Hyundai Elite i20,Hyundai,0.6666666666666666,"2,90,000",Petrol,0.1
+871,Hyundai i20 Select Variant,Hyundai,0.6666666666666666,"2,90,000",Petrol,0.1
+872,Chevrolet Tavera Neo,Chevrolet,0.5,"4,65,000",Diesel,0.252
+873,Maruti Suzuki Dzire,Maruti,0.875,"3,25,000",Diesel,0.375
+874,Hyundai Elite i20,Hyundai,0.9583333333333334,"5,10,000",Petrol,0.00525
+875,Honda City VX Petrol,Honda,0.875,"8,60,000",Petrol,0.2375
+876,Maruti Suzuki Dzire,Maruti,0.875,"4,50,000",Diesel,0.00625
+877,Hyundai Getz,Hyundai,0.4583333333333333,"1,25,000",Petrol,0.2
+878,Mercedes Benz C Class 200 K MT,Mercedes,0.4583333333333333,"5,00,001",Petrol,0.0375
+879,Maruti Suzuki Alto LXi BS III,Maruti,0.4166666666666667,"95,000",Petrol,0.1625
+880,Maruti Suzuki Swift Dzire Tour VDi,Maruti,0.5833333333333334,"2,50,000",Diesel,0.1275
+881,Skoda Fabia,Skoda,0.5833333333333334,"1,10,000",Petrol,0.1125
+882,Maruti Suzuki Alto 800 Select Variant,Maruti,0.8333333333333334,Ask For Price,Petrol,0.175
+883,Maruti Suzuki Ritz VXI ABS,Maruti,0.6666666666666666,"2,70,000",Petrol,0.125
+885,Tata Indica V2 DLE BS III,Tata,0.5833333333333334,"1,10,000",Diesel,0.075
+886,Toyota Corolla Altis,Toyota,0.5833333333333334,"3,00,000",Petrol,0.33
+888,Tata Zest XM Diesel,Tata,0.9583333333333334,"2,60,000",Diesel,0.0675
+889,Mahindra Quanto C8,Mahindra,0.75,"3,90,000",Diesel,0.1
